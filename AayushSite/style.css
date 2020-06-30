@@ -1,0 +1,49 @@
+body{
+  background-color:lightblue;
+  text-align: center;
+
+  font-family: "Merriweather",serif;
+}
+hr{
+  background-color: rgb(239, 250, 249);
+  border-style: dotted ;
+  
+
+  border-color:#ccffff;
+}
+h1{
+   margin-top: 0;
+   font-family: "Sacramento",cursive;
+   font-size: 525.625%;
+}
+h2{
+  margin-top: 0;
+  font-family: "Monsterat",serif;
+}
+h3{
+  margin-top: 0;
+  font-family: "Monsterat",serif;
+}
+.programmer{
+   font-size:50px ;
+   font-family: "Monsterat",serif;
+}
+.mountain{
+  position: relative;
+  bottom: 100px;
+}
+
+.container{
+  position: relative;
+  padding-top: 100px;
+}
+.topcloud{
+  position: relative;
+   left:300px;
+}
+.bottomcloud
+{
+  position: relative;
+  right:250px;
+
+}
